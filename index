@@ -1,4 +1,4 @@
-<DOCTYPE! html>
+<!DOCTYPE html>
 <html>
 <head>
 <title> Q3 Project 1</title>
@@ -64,6 +64,6 @@ width:  350px;
 <div class="col-md-4">
  <center>
  <h1> </h1>
-<p><img src="https://static.theprint.in/wp-content/uploads/2023/07/Feature-Image-2023-07-23T185519.411.png" width="200"></p>
+<p>test<p>
  </body>
 </html>
